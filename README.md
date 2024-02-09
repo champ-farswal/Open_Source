@@ -2,7 +2,7 @@
 ## opensource-programs
 <h1 align="center">Open Source Programs</h1>
 
-<a href="https://linkedin.com/in/Deepak-nodejs/">
+<a href="https://www.linkedin.com/in/abhishekfarswal/">
  <img src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="LinkedIn" width="50" height="50">
 </a>
 
